@@ -1,0 +1,22 @@
+{
+  "name": "phonegap-plugin-local-notifications",
+  "version": "2.1.0",
+  "description": "This plugin allows you to add, queue, cancel by id and cancel all local notifications.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wizcorp/phonegap-plugin-localNotifications.git"
+  },
+  "author": "Ally Ogilvie - aogilvie@wizcorp.jp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wizcorp/phonegap-plugin-localNotifications/issues"
+  },
+  "homepage": "https://github.com/Wizcorp/phonegap-plugin-localNotifications#readme",
+  "cordova": {
+    "id": "phonegap-plugin-local-notifications",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
